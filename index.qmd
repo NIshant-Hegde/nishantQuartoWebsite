@@ -1,0 +1,43 @@
+---
+title: "Nishant Hegde"
+image: profile.JPG
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/hegde-nishant/
+    - icon: github
+      text: Github
+      href: https://github.com/NIshant-Hegde
+    - icon: envelope
+      text: Email
+      href: nhegde2@ur.rochester.edu
+    - text: 🆔 ORCID
+      href: https://orcid.org/0009-0001-3477-3728
+---
+
+::: {#hero-heading}
+
+Hello, I am *Nishant*.
+
+A Data Science graduate student with 4+ years as a software engineer specializing in NVMe SSD firmware development, 6 months of experience as an ML intern building scalable AI solutions, and 1.5 years of research in computer vision. Strong foundation in the semiconductor and embedded systems industry and expertise in data-driven problem-solving. I am actively seeking a Summer 2025 internship in Data Science or Machine Learning to apply my technical skills and research experience in impactful projects.
+
+## Work Experience
+
+- **Software Engineer**, *Toshiba Software India (KIOXIA America Inc)* — *India* (Aug 2020 – May 2024)  
+  - Developed data-driven C++ modules to validate the behavior of the NVMe management endpoint and NVMe controller management over interfaces such as SMBus and I2C for NVMe BiCS data-centric SSDs, reducing operational latency by 31%.
+  - Performed validation, regression testing, stress testing, and failure analysis with Java, improving firmware stability by 15%.
+  - Orchestrated the deployment of high-quality firmware validation modules by using Scrum and Agile methodologies.
+  - Led the automation of testing and validation processes using Jenkins, improving consistency and reducing manual effort by 20%.
+  - Spearheaded cross-functional team collaboration using Confluence and JIRA, boosting workflow efficiency by 33% and shortening development cycles.
+
+- **Machine Learning Intern**, *Multicoreware* — *[India]* (Jan 2020 – Jun 2020)  
+  - Engineered an end-to-end pedestrian tracking pipeline using YOLOv3, DeepSort, and AlignedReID, achieving 90% accuracy.
+  - Developed custom filters like last seen area and low confidence tracker, reducing tracking errors by 23% for 1,000+ individuals.
+  - Implemented analytics tools to track customer behavior, increasing shopping duration and optimizing crowd management.
+  - Collaborated with data scientists and engineers using JIRA to refine tracking algorithms and optimize system performance.
+  - Delivered a scalable, production-ready solution deployed in local malls to enhance customer tracking and crowd management.
+:::

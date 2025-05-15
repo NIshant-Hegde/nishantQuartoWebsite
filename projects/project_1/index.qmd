@@ -1,0 +1,12 @@
+---
+title: "Optimal Formula 1 Lap Sequence Identification"
+description: "In this project I use FastF1, SOM, and association mining to optimize formula 1 lap strategies and improve lap time by 2 seconds."
+categories: [analysis]
+image: "f1.jpg"
+---
+
+- **Optimal Formula 1 Lap Sequence Identification**  
+  - Leveraged the **FastF1 API** to extract telemetry data and applied **Kohonen Maps (SOM)**, improving lap consistency by 13%.  
+  - Utilized **distributed GPU clusters** to process telemetry, enhancing analysis speed and model performance.  
+  - Clustered laps on a 2D Self-Organizing Map grid to visualize top-performing laps and key strategy points.  
+  - Applied **Apriori** and **FP-Growth** to identify performance-driving factors, achieving a 2-second lap time reduction.

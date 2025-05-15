@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nishant Hegde",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n  \n     🆔 ORCID\n  \n\n  \n  \nHello, I am Nishant.\nA Data Science graduate student with 4+ years as a software engineer specializing in NVMe SSD firmware development, 6 months of experience as an ML intern building scalable AI solutions, and 1.5 years of research in computer vision. Strong foundation in the semiconductor and embedded systems industry and expertise in data-driven problem-solving. I am actively seeking a Summer 2025 internship in Data Science or Machine Learning to apply my technical skills and research experience in impactful projects.\n\n\n\nSoftware Engineer, Toshiba Software India (KIOXIA America Inc) — India (Aug 2020 – May 2024)\n\nDeveloped data-driven C++ modules to validate the behavior of the NVMe management endpoint and NVMe controller management over interfaces such as SMBus and I2C for NVMe BiCS data-centric SSDs, reducing operational latency by 31%.\nPerformed validation, regression testing, stress testing, and failure analysis with Java, improving firmware stability by 15%.\nOrchestrated the deployment of high-quality firmware validation modules by using Scrum and Agile methodologies.\nLed the automation of testing and validation processes using Jenkins, improving consistency and reducing manual effort by 20%.\nSpearheaded cross-functional team collaboration using Confluence and JIRA, boosting workflow efficiency by 33% and shortening development cycles.\n\nMachine Learning Intern, Multicoreware — [India] (Jan 2020 – Jun 2020)\n\nEngineered an end-to-end pedestrian tracking pipeline using YOLOv3, DeepSort, and AlignedReID, achieving 90% accuracy.\nDeveloped custom filters like last seen area and low confidence tracker, reducing tracking errors by 23% for 1,000+ individuals.\nImplemented analytics tools to track customer behavior, increasing shopping duration and optimizing crowd management.\nCollaborated with data scientists and engineers using JIRA to refine tracking algorithms and optimize system performance.\nDelivered a scalable, production-ready solution deployed in local malls to enhance customer tracking and crowd management."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Author",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \nI am a researcher at University of Oslo.\nMy work is about Electronic Health Records.\n\n\nUniversity of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022\n\n\n\nI have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Author",
+    "section": "",
+    "text": "University of Oslo | Oslo, Norway\nPhD in Biostatistics | Oct 2022"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Author",
+    "section": "",
+    "text": "I have developed X R packages, published Y papers."
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#rstats",
+    "href": "talks/index.html#rstats",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks/index.html#electronic-health-records",
+    "href": "talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n\n\n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "projects/pkg_2/index.html",
+    "href": "projects/pkg_2/index.html",
+    "title": "pkg_2",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/pkg_1/index.html",
+    "href": "projects/pkg_1/index.html",
+    "title": "pkg_1",
+    "section": "",
+    "text": "This package does this."
+  },
+  {
+    "objectID": "projects/project_2/index.html",
+    "href": "projects/project_2/index.html",
+    "title": "Spotify Playlist Recommendation Optimization",
+    "section": "",
+    "text": "Spotify Playlist Recommendation Optimization\n\nAnalyzed 1M+ playlists to determine optimal length, genre, and sequencing, boosting listener retention through statistical testing (Mann-Whitney U, Kruskal-Wallis).\nIncreased engagement by segmenting user preferences across 10+ demographics and personalizing recommendations, validated with Chi-Square and Wilcoxon tests.\nApplied Mann-Whitney U and Kruskal-Wallis tests to optimize playlist structure, reducing skip rates and enhancing content flow."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Optimal Formula 1 Lap Sequence Identification\n\n\nIn this project I use FastF1, SOM, and association mining to optimize formula 1 lap strategies and improve lap time by 2 seconds.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpotify Playlist Recommendation Optimization\n\n\nIn this project I used statistical testing and user segmentation to optimize playlist structure and boost listener retention across 1M+ playlists.\n\n\n\n\n\n\n\n\n\n\n\n\n\nWafer Map Failure Pattern Detection\n\n\nIn this project identified wafer defect/failure pattern type using machine learning.\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#grid-listing",
+    "href": "projects/index.html#grid-listing",
+    "title": "Projects",
+    "section": "",
+    "text": "This is an example of grid listing. You can specify the content in the yaml header in the .qmd file.\nIt is convenient to use id to link to multiple folders.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/index.html#table-listing",
+    "href": "projects/index.html#table-listing",
+    "title": "Projects",
+    "section": "Table listing",
+    "text": "Table listing\nThis is an example of table listing.\n\nPackages",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "projects/project_1/index.html",
+    "href": "projects/project_1/index.html",
+    "title": "Optimal Formula 1 Lap Sequence Identification",
+    "section": "",
+    "text": "Optimal Formula 1 Lap Sequence Identification\n\nLeveraged the FastF1 API to extract telemetry data and applied Kohonen Maps (SOM), improving lap consistency by 13%.\n\nUtilized distributed GPU clusters to process telemetry, enhancing analysis speed and model performance.\n\nClustered laps on a 2D Self-Organizing Map grid to visualize top-performing laps and key strategy points.\n\nApplied Apriori and FP-Growth to identify performance-driving factors, achieving a 2-second lap time reduction."
+  },
+  {
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Blog 1",
+    "section": "",
+    "text": "Blog 1\nWelcome! This is a sample blog.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "about_template.html",
+    "href": "about_template.html",
+    "title": "About this template",
+    "section": "",
+    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar.",
+    "crumbs": [
+      "About",
+      "This template"
+    ]
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Nishant Hegde",
+    "section": "",
+    "text": "Software Engineer, Toshiba Software India (KIOXIA America Inc) — India (Aug 2020 – May 2024)\n\nDeveloped data-driven C++ modules to validate the behavior of the NVMe management endpoint and NVMe controller management over interfaces such as SMBus and I2C for NVMe BiCS data-centric SSDs, reducing operational latency by 31%.\nPerformed validation, regression testing, stress testing, and failure analysis with Java, improving firmware stability by 15%.\nOrchestrated the deployment of high-quality firmware validation modules by using Scrum and Agile methodologies.\nLed the automation of testing and validation processes using Jenkins, improving consistency and reducing manual effort by 20%.\nSpearheaded cross-functional team collaboration using Confluence and JIRA, boosting workflow efficiency by 33% and shortening development cycles.\n\nMachine Learning Intern, Multicoreware — [India] (Jan 2020 – Jun 2020)\n\nEngineered an end-to-end pedestrian tracking pipeline using YOLOv3, DeepSort, and AlignedReID, achieving 90% accuracy.\nDeveloped custom filters like last seen area and low confidence tracker, reducing tracking errors by 23% for 1,000+ individuals.\nImplemented analytics tools to track customer behavior, increasing shopping duration and optimizing crowd management.\nCollaborated with data scientists and engineers using JIRA to refine tracking algorithms and optimize system performance.\nDelivered a scalable, production-ready solution deployed in local malls to enhance customer tracking and crowd management."
+  },
+  {
+    "objectID": "projects/project_3/index.html",
+    "href": "projects/project_3/index.html",
+    "title": "Wafer Map Failure Pattern Detection",
+    "section": "",
+    "text": "Wafer Map Failure Pattern Detection\n\nEngineered 40+ spatial features (density histograms, localized geometric descriptors), improving pattern separability by 25%.\nIncorporated semi-supervised learning with SHAP and t-SNE for interpretable anomaly detection under 70% label scarcity.\nLeveraged stacked meta-models combining SVM and LightGBM, achieving 92% classification accuracy across five major wafer map failure patterns."
+  },
+  {
+    "objectID": "research/research_proj_1/index.html",
+    "href": "research/research_proj_1/index.html",
+    "title": "Cryptographic Neural Nets on Homomorphically Encrypted Data",
+    "section": "",
+    "text": "🔗 View Publication\n\n\nProject Summary\n\nCryptographic Neural Nets on Homomorphically Encrypted Data\n\nDeveloped machine learning models capable of training on encrypted data to enhance data privacy and security while still enabling advanced machine learning applications.\nExperimented with different homomorphic encryption schemes such as Brakerski-Gentry-Vaikuntanathan (BGV) and Cheon-Kim-Kim-Song (CKKS) to encrypt images. Utilized Microsoft’s SEAL library to implement BGV and CKKS schemes.\nProposed an alternative way of achieving homomorphic data encryption by using autoencoders. Classified encrypted data using a custom CNN and achieved 70% accuracy on the CIFAR-10 dataset."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Cryptographic Neural Nets on Homomorphically Encrypted Data\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "research/research_proj_2/index.html",
+    "href": "research/research_proj_2/index.html",
+    "title": "Spotify Playlist Recommendation Optimization",
+    "section": "",
+    "text": "Spotify Playlist Recommendation Optimization\n\nAnalyzed 1M+ playlists to determine optimal length, genre, and sequencing, boosting listener retention through statistical testing (Mann-Whitney U, Kruskal-Wallis).\nIncreased engagement by segmenting user preferences across 10+ demographics and personalizing recommendations, validated with Chi-Square and Wilcoxon tests.\nApplied Mann-Whitney U and Kruskal-Wallis tests to optimize playlist structure, reducing skip rates and enhancing content flow."
+  }
+]

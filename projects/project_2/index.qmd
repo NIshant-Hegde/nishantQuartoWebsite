@@ -1,0 +1,16 @@
+---
+title: "Spotify Playlist Recommendation Optimization"
+description: "In this project I used statistical testing and user segmentation to optimize playlist structure and boost listener retention across 1M+ playlists."
+categories: [analysis]
+image: "spotify_3.png"
+---
+
+- **Spotify Playlist Recommendation Optimization**  
+  - Analyzed 1M+ playlists to determine optimal length, genre, and sequencing, boosting listener retention through statistical testing (Mann-Whitney U, Kruskal-Wallis). 
+  - Increased engagement by segmenting user preferences across 10+ demographics and personalizing recommendations, validated with Chi-Square and Wilcoxon tests. 
+  - Applied Mann-Whitney U and Kruskal-Wallis tests to optimize playlist structure, reducing skip rates and enhancing content flow.
+  
+
+
+
+

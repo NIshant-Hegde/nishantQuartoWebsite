@@ -1,0 +1,18 @@
+---
+title: "Cryptographic Neural Nets on Homomorphically Encrypted Data"
+description: "Collaborated with the Samsung R&D Institute India-Bangalore (SRIB) to develop machine learning models capable of training on encrypted data."
+categories: [analysis]
+image: "encrypt.jpg"
+page-layout: article
+---
+
+[🔗 View Publication](https://github.com/NIshant-Hegde/F1_OptimalLap_Seq_ID/blob/main/ProjectReport.pdf)
+
+---
+
+### Project Summary
+
+- **Cryptographic Neural Nets on Homomorphically Encrypted Data**
+  - Developed machine learning models capable of training on encrypted data to enhance data privacy and security while still enabling advanced machine learning applications.
+  - Experimented with different homomorphic encryption schemes such as Brakerski-Gentry-Vaikuntanathan (BGV) and Cheon-Kim-Kim-Song (CKKS) to encrypt images. Utilized Microsoft’s SEAL library to implement BGV and CKKS schemes.
+  - Proposed an alternative way of achieving homomorphic data encryption by using autoencoders. Classified encrypted data using a custom CNN and achieved 70% accuracy on the CIFAR-10 dataset.

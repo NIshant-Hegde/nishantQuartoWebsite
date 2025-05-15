@@ -1,0 +1,17 @@
+---
+title: "Wafer Map Failure Pattern Detection"
+description: "In this project identified wafer defect/failure pattern type using machine learning."
+categories: [analysis]
+image: "wafer.png"
+---
+
+- **Wafer Map Failure Pattern Detection**  
+  - Engineered 40+ spatial features (density histograms, localized geometric descriptors), improving pattern separability by 25%.
+  - Incorporated semi-supervised learning with SHAP and t-SNE for interpretable anomaly detection under 70% label scarcity.
+  - Leveraged stacked meta-models combining SVM and LightGBM, achieving 92% classification accuracy across five major wafer
+map failure patterns.
+  
+
+
+
+
